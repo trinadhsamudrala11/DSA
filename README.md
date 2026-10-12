@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/trinadh6493/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/trinadh6493/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/trinadh6493/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/trinadhsamudrala11/DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/trinadh6493/DSA/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/trinadh6493/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/trinadh6493/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/trinadh6493/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/trinadh6493/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/trinadh6493/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/trinadhsamudrala11/DSA/tree/master/0049-group-anagrams) |
 | [2308-divide-array-into-equal-pairs](https://github.com/trinadh6493/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/trinadh6493/DSA/tree/master/2448-count-number-of-bad-pairs) |
 ## Bit Manipulation
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/trinadh6493/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/trinadh6493/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/trinadh6493/DSA/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/trinadhsamudrala11/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/trinadh6493/DSA/tree/master/0058-length-of-last-word) |
 ## Dynamic Programming
 |  |
@@ -152,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/trinadh6493/DSA/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/trinadhsamudrala11/DSA/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
