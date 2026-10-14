@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/trinadh6493/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/trinadhsamudrala11/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/trinadh6493/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/trinadh6493/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/trinadh6493/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/trinadhsamudrala11/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/trinadh6493/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/trinadh6493/DSA/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/trinadh6493/DSA/tree/master/0012-integer-to-roman) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/trinadhsamudrala11/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/trinadh6493/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/trinadh6493/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## String Matching
